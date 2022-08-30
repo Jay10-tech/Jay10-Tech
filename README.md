@@ -2,7 +2,6 @@
 
 <body style="background-color:WhiteSmoke;">
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
-<img src = ""/>
   
 <p align="center">
   <img src="[https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Shopify++Expert+%F0%9F%8F%AA+;E-Commerce+%F0%9F%9B%92+;Web+Design++%F0%9F%92%BB+" alt="Typing SVG" ]>
